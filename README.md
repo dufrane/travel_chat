@@ -14,7 +14,7 @@ Skills: C, Makefile, Git, Gtk, Glade, SQlite
 
 
 
-## Screenshots of the game
+## Screenshots of chat presentation
 
 <a href="https://github.com/dufrane/travel_chat" target="_blank">
   <img src="https://github.com/dufrane/travel_chat/blob/master/.git_images/screenshot1.png?raw=true">
