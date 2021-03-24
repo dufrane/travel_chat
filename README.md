@@ -16,11 +16,11 @@ Skills: C, Makefile, Git, Gtk, Glade, SQlite
 
 ## Screenshots of the game
 
-<a href="https://github.com/dufrane/end_game" target="_blank">
-  <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot1.png?raw=true">
+<a href="https://github.com/dufrane/travel_chat" target="_blank">
+  <img src="https://github.com/dufrane/travel_chat/blob/master/.git_images/screenshot1.png?raw=true">
 </a>
-<a href="https://github.com/dufrane/end_game" target="_blank">
-  <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot2.png?raw=true">
+<a href="https://github.com/dufrane/travel_chat" target="_blank">
+  <img src="https://github.com/dufrane/travel_chat/blob/master/.git_images/screenshot2.png?raw=true">
 </a>
 
 
