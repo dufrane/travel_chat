@@ -6,6 +6,7 @@ Skills: C, Makefile, Git, Gtk, Glade, SQlite
 
 
 # To start:
+- brew install gtk+3
 - clone the repo
 - go to the root dir
 - make
